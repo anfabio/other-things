@@ -1,4 +1,4 @@
-# other-things
+# Other Things
 Other small things I want to keep and share
 
 
